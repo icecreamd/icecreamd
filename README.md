@@ -1,4 +1,4 @@
 # icecreamd
+# Read me básico que usei pra testar branches/commits/pull requests etc.
 
-Teste teste barato é loco
-Teste 2 enois
+# Se quiserem deixar comentários aqui ou seja o que for, sintam-se à vontade, aqui é "Tudo Nosso Nada Deles Rapá"
